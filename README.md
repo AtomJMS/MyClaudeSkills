@@ -1,0 +1,2 @@
+# MyClaudeSkills
+For collaboration
