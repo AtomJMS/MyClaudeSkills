@@ -1,0 +1,14 @@
+{
+  "name": "fmstest-marketplace",
+  "description": "Plugins for my team to test",
+  "owner": {
+    "name": "JMSonza"
+  },
+  "plugins": [
+    {
+      "name": "test-plugin",
+      "source": "./plugins/my-first-plugin",
+      "description": "A greeting plugin to learn the basics"
+    }
+  ]
+}
